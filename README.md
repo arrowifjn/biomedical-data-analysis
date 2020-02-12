@@ -1,3 +1,3 @@
 ## biomedical data analysis 
 
-other project
+This is a project for biomedical data analysis
